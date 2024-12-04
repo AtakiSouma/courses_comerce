@@ -1,0 +1,1 @@
+export {HeroImagesData} from './heroBannerData'
